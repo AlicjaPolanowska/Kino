@@ -25,7 +25,7 @@
  </li>
  <li  class="active"><a href="Repertuar">Repertuar</a>
   <ul>
-   <li class="active"><a href="Repertuar">Bierz?cy Tydzie?</a></li>
+   <li class="active"><a href="Repertuar">Bie??cy Tydzie?</a></li>
    <li><a href="repertuar_1.html">Nast?pny Tydzie?</a></li>
    
   </ul>

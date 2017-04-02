@@ -25,7 +25,7 @@
  </li>
  <li ><a href="Repertuar">Repertuar</a>
   <ul>
-   <li><a href="Repertuar">Bierzący Tydzień</a></li>
+   <li><a href="Repertuar">Bieżący Tydzień</a></li>
    <li><a href="repertuar_1.html">Następny Tydzień</a></li>
    
   </ul>
